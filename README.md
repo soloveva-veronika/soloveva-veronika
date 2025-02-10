@@ -1,6 +1,4 @@
-# Привет! Я Вероника Соловьева 👩‍💻
-
-## 💡 [Pet-проект: **Methodology and software for monitoring a person's condition while working at a computer**](https://github.com/soloveva-veronika/video_data_analysis/tree/main)
+## 👩‍💻 [Pet-проект: **Methodology and software for monitoring a person's condition while working at a computer**](https://github.com/soloveva-veronika/video_data_analysis/tree/main)
 
 | **Параметр**              | **Описание**                                                                                                                                                                                                                                                                                                                                                   |
 |---------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
